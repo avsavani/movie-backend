@@ -96,6 +96,7 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:4200",
     "https://moive-rater.firebaseapp.com",
+    "https://moive-rater.web.app",
     ]
 
 # Password validation
