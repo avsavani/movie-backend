@@ -1,0 +1,1 @@
+web: gunicorn movieclub.wsgi --log-file -
